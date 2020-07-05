@@ -1,5 +1,5 @@
 # hello-world
-New epository
+New repository
 
 Test message
 end
